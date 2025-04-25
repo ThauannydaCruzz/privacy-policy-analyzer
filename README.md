@@ -28,7 +28,6 @@ O **Privacy Policy Analyzer** atua como um **tradutor inteligente** de política
 ### Backend
 - **Python**
 - **Flask**
-- **SQLite**
 - **API REST**
 - Integração com **Mistral AI** para análise de políticas
 
